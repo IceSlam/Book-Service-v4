@@ -1,0 +1,272 @@
+.bs-color {
+  color: white;
+  background-color: #a8312d;
+}
+
+.badge-bs {
+  font-size: .35em;
+}
+
+.is_header {
+  padding-top: 6em;
+  padding-bottom: 4em;
+  background: #a8312d;
+}
+
+.is_header-title-div {
+  padding-top: 2em;
+}
+
+.is_header-title {
+  color: white;
+  text-transform: uppercase;
+  font-size: 3em;
+  font-weight: 250;
+  margin-top: -.3em;
+}
+
+.is_header-sub {
+  color: white;
+  text-transform: uppercase;
+  font-weight: 200;
+  font-size: 1.25em;
+}
+
+.is_header-ssub {
+  color: white;
+  text-transform: uppercase;
+  font-weight: 100;
+  margin-top: -1em;
+  font-size: .7em;
+}
+
+.is_navbar {
+
+}
+
+.is_navbar-brand {
+  text-transform: uppercase;
+  font-weight: 300;
+}
+
+.is_top-menu {
+    margin-top: 0px;
+}
+
+.is_top-menu li a {
+    text-transform: uppercase;
+    color: rgba(255,255,255,.5) !important;
+    text-align: center;
+    transition: .25s linear;
+    font-weight: 200;
+}
+
+.is_top-menu li a:hover {
+    color: white !important;
+    transition: .25s linear;
+}
+
+.is_nav-link {
+  margin-top: -1rem;
+}
+
+.is_apple {
+  background-image: url(../images/apple_bg.jpg);
+  background-position: bottom center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.is_services {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+.is_services-title {
+  text-transform: uppercase;
+  font-size: 2.625em;
+  font-weight: 300;
+  margin-bottom: 1.25rem;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.card-block {
+  padding-bottom: 1rem;
+}
+
+.card-price {
+  font-size: 2em;
+  font-weight: 200;
+}
+
+.card {
+  box-shadow: 0 0px 0px 0 rgba(0,0,0,0.16),0 0px 0px 0 rgba(0,0,0,0.12) !important;
+}
+
+.card-img-top {
+  border-radius: 300px;
+}
+
+#sstatus {
+  background-image: url(../images/sstatus_bg.jpg);
+  background-position: bottom center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+}
+
+.is_sstatus-title {
+  text-transform: uppercase;
+  font-size: 2.625em;
+  font-weight: 300;
+  margin-bottom: 1.25rem;
+  text-align: center;
+  color: white;
+}
+
+.is_sstatus-cap {
+  font-size: 2em;
+  text-align: center;
+  margin-top: 1rem;
+  color: white;
+}
+
+#goods-new {
+  padding-top: 4rem;
+  padding-bottom: 3rem;
+}
+
+#faq {
+  background-image: url(../images/faq_bg.jpg);
+  background-position: bottom center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  padding-top: 4rem;
+  padding-bottom: 3rem;
+}
+
+.is_faq-title {
+  text-transform: uppercase;
+  font-size: 2.625em;
+  font-weight: 300;
+  margin-bottom: 1.25rem;
+  text-align: center;
+  color: white;
+}
+
+#contacts {
+  padding-top: 3rem;
+  padding-bottom: 1rem;
+  background-color: #a8312d;
+}
+
+.is_contacts-title {
+  text-transform: uppercase;
+  font-size: 2.625em;
+  font-weight: 200;
+  margin-bottom: 1.25rem;
+  text-align: center;
+  color: white;
+}
+
+.is_contacts-logo {
+  max-width: 100px;
+  width: 100%;
+  margin-left: 1rem;
+}
+
+.is_contacts-sub {
+  text-transform: uppercase;
+  color: white;
+  font-size: 1.2em;
+  font-weight: 200;
+  margin-top: -1rem;
+}
+
+.is_contacts-reg {
+  text-transform: uppercase;
+  color: white;
+  font-size: 1em;
+  font-weight: 200;
+}
+
+.is_contacts-item {
+  color: white;
+}
+
+.is_contacts-item-link {
+  color: rgba(255,255,255,0.5);
+}
+
+.is_contacts-mapbtn {
+  color: rgba(255,255,255,0.5);
+}
+
+.is_contacts-mapbtn:hover {
+  color: white;
+}
+
+.card[class*="border"] {
+  border: 0px;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.card-header:first-child {
+    border-radius: 0;
+}
+
+.card-header {
+  padding: .75rem 1.25rem;
+  margin-bottom: 0;
+  background-color: #a8312d;
+  border-bottom: 0px;
+  color: white;
+}
+
+.card-header button {
+  border: 0px;
+}
+
+.card-body {
+  padding: 0;
+}
+
+.is_footer-copy {
+  text-transform: uppercase;
+  font-size: .5em;
+}
+
+.is_footer-dev {
+  font-size: .6em;
+}
+/* Service Page */
+.is_services-ttitle {
+  text-transform: uppercase;
+  font-size: 1.75em;
+}
+
+/* Contacts Page */
+#contacts-page {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.is_contacts-page-title {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 2.625em;
+  margin-bottom: 1.5rem;
+}
+
+.is_contacts-page-text {
+  text-transform: uppercase;
+  font-size: 1em;
+}
